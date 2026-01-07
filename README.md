@@ -1,5 +1,5 @@
 # data-analytics-portfolio
-I am currently building my foundation in data analytics, with a focus on Microsoft Excel.
+Hey! I'm Mohammad Taha and I'm currently building my foundation in data analytics, with a focus on Microsoft Excel.
 
 ## What I am learning now
 - Basic Excel formulas
