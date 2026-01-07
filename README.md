@@ -1,9 +1,7 @@
 # data-analytics-portfolio
-# Learning Data Analytics (Beginner)
+I am currently building my foundation in data analytics, with a focus on Microsoft Excel.
 
-I am a beginner in data analytics and currently learning the basics of Microsoft Excel.
-
-## What I am learning now 
+## What I am learning now
 - Basic Excel formulas
 - Sorting and filtering data
 - Working with simple datasets
